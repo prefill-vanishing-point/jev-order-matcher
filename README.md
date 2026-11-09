@@ -189,6 +189,7 @@ order_matcher/
 scripts/generate_data.py   synthetic data
 data/                      generated catalog, customers, purchases, labelled orders
 tests/                     unit tests
+docs/demo.gif              the recording at the top of this page
 requirements.txt           waitress, for the web app only
 render.yaml                Render hosting setup
 ```
